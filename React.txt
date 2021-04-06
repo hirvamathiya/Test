@@ -1,0 +1,9 @@
+Memo:-
+
+what pure component is to class component memo is same as to functional component.
+when props are not changing at that time for better performance we can use memo.
+
+Refs:-
+
+Refs are used to accress directly dom nodes
+Refs can be used to fetch the input values

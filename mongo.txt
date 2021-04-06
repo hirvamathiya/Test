@@ -1,0 +1,4 @@
+open cmd ->  type this command
+
+
+mongod --port 27017 --dbpath mongo
