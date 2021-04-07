@@ -1,0 +1,3 @@
+Redux is used to manage state of whole application.
+it follows unidirectional approach.
+App -> actions -> Reducers -> Store -> App
